@@ -1,5 +1,5 @@
 # Batch package Installer for clean Ubuntu 22.04
-Use this bash script to install Rust, Solana, Build Toold, Nvidia Driver, Cuda Toolkit and other dependencies required to build and run coal gpu miner
+Use this bash script to install Rust, Solana, Build Tools, Nvidia Driver, Cuda Toolkit and other dependencies required to build and run coal gpu miner
 
 # Steps
 1. Clone this repo
